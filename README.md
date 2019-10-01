@@ -1,4 +1,5 @@
-#_child ( aka. Underscore_Child )
+# _child ( aka. Underscore_Child )
+
 _child is a A WordPress Child Theme Boilerplate! by [Ahmad Awais](http://AhmadAwais.com/about/)
 
 ![_child](https://ahmadawais.com/wp-content/uploads/2015/08/child.jpg)
