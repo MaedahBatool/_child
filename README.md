@@ -12,7 +12,7 @@ It includes the following file structure:
 
 ## Reference Article
 
-[Read More](https://ahmadawais.com/_child-wordpress-child-theme-boilerplate/)
+In case you are looking for an in-depth tutorial about this theme. I have publsihed a blog post about it on my website. You can [read it here](https://ahmadawais.com/_child-wordpress-child-theme-boilerplate/).
 
 ### License
 
