@@ -12,5 +12,7 @@ It includes the following file structure:
 ## Reference Article
 
 [Read More](https://ahmadawais.com/_child-wordpress-child-theme-boilerplate/)
-###License
+
+### License
+
 _child is licensed under GPL v2.0 and is distributed as is.
