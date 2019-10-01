@@ -9,6 +9,8 @@ It includes the following file structure:
 - **style.css** which has a tag template for the parent name
 - **functions.php** which enqueues the style.css of parent theme and then style.css of `_child`
 
+## Reference Article
+
 [Read More](https://ahmadawais.com/_child-wordpress-child-theme-boilerplate/)
 ###License
 _child is licensed under GPL v2.0 and is distributed as is.
