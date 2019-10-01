@@ -3,8 +3,9 @@ _child is a A WordPress Child Theme Boilerplate! by [Ahmad Awais](http://AhmadAw
 
 ![_child](https://ahmadawais.com/wp-content/uploads/2015/08/child.jpg)
 
-##Files
-It includes
+## Files
+
+It includes the following file structure:
 - **style.css** which has a tag template for the parent name
 - **functions.php** which enqueues the style.css of parent theme and then style.css of `_child`
 
